@@ -2,12 +2,12 @@
 
 # change this value for a different result
 nterms = 10
-print("Git is awesome!!")
+
 # first two terms
 n1 = 0
 n2 = 1
 count = 0
-
+print("Git is awesome!!")
 # check if the number of terms is valid
 if nterms <= 0:
    print("Please enter a positive integer")
